@@ -1,4 +1,8 @@
 # AnimatedCountDown
+# The Main goal is to Understand The Logic How it is working.
+# Open project code one side and this readme another side to better understand what I'm trying to say.
+Check out Demo: https://simplifiedweb.github.io/AnimatedCountDown/
+
 Explained You in Siimple Way
 
 Step1: transform: translate(-50%,-50%) always give you the center element based on the container you applied, Always remember that.
